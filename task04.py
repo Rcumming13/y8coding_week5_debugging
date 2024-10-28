@@ -1,5 +1,5 @@
 age = input("How old are you?")
-
+old = age
 print("Nice to know you are", old, "years old!")
 
 
